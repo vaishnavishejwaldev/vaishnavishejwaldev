@@ -33,8 +33,7 @@ Email Me 👉 ✉️ **vaishnavishejwal.s@gmail.com** For Collaboration/Project 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaishnavishejwaldev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-##🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
